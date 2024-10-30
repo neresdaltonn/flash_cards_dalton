@@ -1,7 +1,7 @@
 criaCartao(
     'Linguagem',
     'O que é uma linguagem de programação e para que serve?',
-    'É um sistema formal que permite aos programadores criar programas usando palavras-chave, símbolos e comandos. Isso envolve especificar ações, algoritmos e manipulação de dados.'
+    'Um sistema formal é um conjunto de regras que ajuda programadores a criar programas usando palavras-chave e símbolos. Ele permite descrever ações e manipular dados de forma organizada.'
 )
 
 criaCartao(
