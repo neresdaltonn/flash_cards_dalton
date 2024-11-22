@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Programação',
     'O que é o HTML e para que ele serve?',
-    'É é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web.'
+    'O HTML é uma linguagem usada para estruturar conteúdo em páginas web, como texto, imagens e links, para que sejam exibidos corretamente nos navegadores.'
 )
